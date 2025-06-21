@@ -1,5 +1,0 @@
-INDEX VERSION 1.4+D:\SP_Hospitals\SP_WS\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1050042363.index
-516675233.index
-1363236964.index
-2236294395.index

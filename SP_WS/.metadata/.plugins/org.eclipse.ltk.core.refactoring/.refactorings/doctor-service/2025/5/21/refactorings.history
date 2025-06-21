@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;DoctorMaster.java&apos; to &apos;master-service/src/main/java/com.sphospital.master_service.model&apos;&#x0D;&#x0A;- Original project: &apos;doctor-service&apos;&#x0D;&#x0A;- Destination element: &apos;master-service/src/main/java/com.sphospital.master_service.model&apos;&#x0D;&#x0A;- Original element: &apos;com.sphospital.doctor_service.model.DoctorMaster.java&apos;" description="Copy compilation unit" destination="=master-service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sphospital.master_service.model" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sphospital.doctor_service.model{DoctorMaster.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1747896274529" units="1" version="1.0"/>
-</session>
